@@ -30,4 +30,7 @@
   --fs-900: 2.5rem;
 
   /* Font weight */
+  --fw-regular: 400;
+  --fw-bold: 600;
+  --fw-dark: 700;
 }
