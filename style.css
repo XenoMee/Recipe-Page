@@ -189,6 +189,13 @@ ol {
   padding: 1.5rem;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1px solid var(--clr-neutral-500);
+}
 /* Utility class */
 .bold {
   font-weight: var(--fw-dark);
