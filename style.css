@@ -142,8 +142,20 @@ li::marker {
   --content-padding: 0rem 2rem;
 }
 
+/* .intro__title {
+  padding: var(--content-padding);
+} */
+
 .recipe__image {
   order: -1;
+}
+
+.recipe__preparation {
+  order: 1;
+}
+
+.recipe__ingredients {
+  order: 2;
 }
 
 hr {
