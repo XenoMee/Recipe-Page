@@ -138,6 +138,12 @@ li::marker {
   background-color: var(--clr-neutral-100);
 }
 
+/* .recipe__content {
+  --content-padding: 0rem 2rem;
+
+  padding: var(--content-padding);
+} */
+
 hr {
   margin: 2rem 0;
 }
