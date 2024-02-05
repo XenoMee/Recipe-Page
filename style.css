@@ -169,6 +169,10 @@ li {
   padding: 0rem 1.2rem;
 }
 
+ul li::marker {
+  font-size: 0.7rem;
+}
+
 li:not(:last-of-type) {
   margin-bottom: 0.5rem;
 }
