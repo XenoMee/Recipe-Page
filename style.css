@@ -173,9 +173,9 @@ ol {
   margin-left: 1.5rem;
 }
 
-/* .recipe__preparation {
-  padding: 1rem 2rem;
-} */
+.recipe__preparation {
+  padding: 1.5rem;
+}
 
 /* Utility class */
 .bold {
