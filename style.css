@@ -84,5 +84,7 @@ h6 {
 }
 
 body {
+  background-color: var(--clr-neutral-300);
+  color: var(--clr-neutral-500);
   line-height: 1.5;
 }
