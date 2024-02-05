@@ -197,6 +197,19 @@ table {
 tr:not(:last-of-type) {
   border-bottom: 1px solid var(--clr-neutral-500);
 }
+
+th {
+  display: inline-block;
+  text-align: start;
+  font-weight: var(--fw-regular);
+  padding: 0.5rem 0rem 0.5rem 2rem;
+}
+
+.gram-value {
+  color: var(--clr-primary-600);
+  font-weight: var(--fw-dark);
+  padding-right: 2rem;
+}
 /* Utility class */
 .bold {
   font-weight: var(--fw-dark);
