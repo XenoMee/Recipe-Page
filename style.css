@@ -138,6 +138,10 @@ li::marker {
   background-color: var(--clr-neutral-100);
 }
 
+hr {
+  margin: 2rem 0;
+}
+
 /* Utility class */
 .bold {
   font-weight: var(--fw-bold);
