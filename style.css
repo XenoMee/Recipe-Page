@@ -108,6 +108,10 @@ body {
   color: var(--clr-neutral-800);
 }
 
+.recipe__preparation {
+  background-color: var(--clr-primary-700, 0.1);
+}
+
 .preparation__title {
   color: var(--clr-primary-700);
   font-size: var(--fs-500);
