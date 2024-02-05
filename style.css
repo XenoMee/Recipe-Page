@@ -110,3 +110,8 @@ body {
 .bold {
   font-weight: var(--fw-bold);
 }
+
+.grid-flow {
+  display: grid;
+  gap: 1rem;
+}
