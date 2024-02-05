@@ -164,6 +164,11 @@ li::marker {
   order: -1;
 }
 
+ul,
+li {
+  padding: 0rem 1.2rem;
+}
+
 /* .recipe__preparation {
   padding: 1rem 2rem;
 } */
