@@ -190,3 +190,6 @@ ol {
 .grid-flow[data-spacing="medium"] {
   gap: 1.5rem;
 }
+.grid-flow[data-spacing="small"] {
+  gap: 1rem;
+}
