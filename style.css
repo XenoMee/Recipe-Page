@@ -108,12 +108,16 @@ body {
   color: var(--clr-neutral-800);
 }
 
+li::marker {
+  color: var(--clr-primary-600);
+}
+
 .recipe__preparation {
   background-color: hsl(var(--clr-primary-hsl-700), 0.1);
 }
 
-li::marker {
-  color: var(--clr-primary-600);
+.recipe__preparation li::marker {
+  color: var(--clr-primary-700);
 }
 
 .preparation__title {
