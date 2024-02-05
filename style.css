@@ -8,8 +8,10 @@
 
 :root {
   /* Color */
+  --clr-primary-hsl-700: 332, 51%, 32%;
+
   --clr-primary-600: hsl(14, 45%, 36%);
-  --clr-primary-700: hsl(332, 51%, 32%);
+  --clr-primary-700: hsl(var(--clr-primary-hsl-700));
   --clr-neutral-100: hsl(0, 0%, 100%);
   --clr-neutral-200: hsl(330, 100%, 98%);
   --clr-neutral-300: hsl(30, 54%, 90%);
