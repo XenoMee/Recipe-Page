@@ -112,6 +112,10 @@ body {
   background-color: hsl(var(--clr-primary-hsl-700), 0.1);
 }
 
+li::marker {
+  color: var(--clr-primary-600);
+}
+
 .preparation__title {
   color: var(--clr-primary-700);
   font-size: var(--fs-500);
