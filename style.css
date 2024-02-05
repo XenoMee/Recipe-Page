@@ -95,6 +95,7 @@ body {
 }
 
 /* Typography */
-/* .recipe__title {
+.recipe__title {
   font-size: var(--fs-900);
-} */
+  color: var(--clr-neutral-800);
+}
