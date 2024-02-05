@@ -194,7 +194,7 @@ table {
   border-collapse: collapse;
 }
 
-tr {
+tr:not(:last-of-type) {
   border-bottom: 1px solid var(--clr-neutral-500);
 }
 /* Utility class */
