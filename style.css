@@ -134,7 +134,8 @@ li::marker {
 }
 
 .recipe__preparation {
-  background-color: hsl(var(--clr-primary-hsl-700), 0.1);
+  background-color: hsl(var(--clr-primary-hsl-700), 0.05);
+  border-radius: 0.5rem;
 }
 
 .recipe__preparation li::marker {
@@ -147,7 +148,7 @@ li::marker {
 }
 
 /* Layout */
-/* .recipe {
+.recipe {
   --content-padding: 0rem 2rem;
 
   background-color: var(--clr-neutral-100);
@@ -156,11 +157,15 @@ li::marker {
 .intro__title,
 .recipe__content {
   padding: var(--content-padding);
-} */
+}
 
 .recipe__image {
   order: -1;
 }
+
+/* .recipe__preparation {
+  padding: 1rem 2rem;
+} */
 
 hr {
   margin: 2rem 0;
@@ -168,7 +173,7 @@ hr {
 
 /* Utility class */
 .bold {
-  font-weight: var(--fw-bold);
+  font-weight: var(--fw-dark);
 }
 
 .grid-flow {
