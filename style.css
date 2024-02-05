@@ -186,3 +186,7 @@ ol {
   display: grid;
   gap: 2rem;
 }
+
+.grid-flow[data-spacing="medium"] {
+  gap: 1.5rem;
+}
