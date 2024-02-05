@@ -16,4 +16,7 @@
   --clr-neutral-400: hsl(30, 18%, 87%);
   --clr-neutral-500: hsl(30, 10%, 34%);
   --clr-neutral-800: hsl(24, 5%, 18%);
+
+  --font-family-heading: "YoungSerif";
+  --font-family-body: "Outfit";
 }
