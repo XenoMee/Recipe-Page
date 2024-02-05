@@ -169,13 +169,13 @@ li {
   padding: 0rem 1.2rem;
 }
 
+ol {
+  margin-left: 1.5rem;
+}
+
 /* .recipe__preparation {
   padding: 1rem 2rem;
 } */
-
-hr {
-  margin: 2rem 0;
-}
 
 /* Utility class */
 .bold {
