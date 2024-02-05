@@ -144,6 +144,10 @@ li::marker {
   padding: var(--content-padding);
 } */
 
+.recipe__image {
+  order: -1;
+}
+
 hr {
   margin: 2rem 0;
 }
