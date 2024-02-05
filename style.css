@@ -82,3 +82,7 @@ h5,
 h6 {
   overflow-wrap: break-word;
 }
+
+body {
+  line-height: 1.5;
+}
