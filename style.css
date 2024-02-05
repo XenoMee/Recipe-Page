@@ -109,7 +109,7 @@ body {
 }
 
 .recipe__preparation {
-  background-color: var(--clr-primary-700, 0.1);
+  background-color: hsl(var(--clr-primary-hsl-700), 0.1);
 }
 
 .preparation__title {
