@@ -160,6 +160,10 @@ li::marker {
   padding: var(--content-padding);
 }
 
+.intro__title {
+  margin-bottom: 2rem;
+}
+
 .recipe__image {
   order: -1;
 }
