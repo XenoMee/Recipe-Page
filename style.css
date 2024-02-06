@@ -152,6 +152,7 @@ li::marker {
 .recipe {
   --content-padding: 0rem 2rem;
 
+  /* max-width: 46rem; */
   background-color: var(--clr-neutral-100);
   padding-bottom: 2.5rem;
 }
@@ -226,4 +227,14 @@ th {
 }
 .grid-flow[data-spacing="small"] {
   gap: 1rem;
+}
+
+@media (min-width: 44em) {
+  .recipe__intro {
+    padding: var(--content-padding);
+  }
+
+  .intro__title {
+    padding: 0;
+  }
 }
