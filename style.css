@@ -188,6 +188,7 @@ ol {
 
 .recipe__preparation {
   padding: 1.5rem;
+  order: -1;
 }
 
 table {
