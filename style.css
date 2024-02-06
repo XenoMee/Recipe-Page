@@ -168,6 +168,7 @@ li::marker {
 
 .recipe__image {
   order: -1;
+  aspect-ratio: 2 / 1;
 }
 
 ul,
