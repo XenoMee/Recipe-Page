@@ -237,6 +237,8 @@ th {
   }
 
   .recipe {
+    --content-padding: 0rem 2.5rem;
+
     padding-top: 2.5rem;
     border-radius: 0.8rem;
   }
