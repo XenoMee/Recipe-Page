@@ -231,7 +231,7 @@ th {
 
 @media (min-width: 44em) {
   .recipe {
-    /* padding-top: 2.5rem; */
+    padding-top: 2.5rem;
     border-radius: 0.5rem;
   }
 
