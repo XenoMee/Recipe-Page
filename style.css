@@ -230,6 +230,12 @@ th {
 }
 
 @media (min-width: 44em) {
+  body {
+    display: grid;
+    place-content: center;
+    /* margin: 5rem 0rem; */
+  }
+
   .recipe {
     padding-top: 2.5rem;
     border-radius: 0.8rem;
