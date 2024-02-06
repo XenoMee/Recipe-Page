@@ -233,7 +233,7 @@ th {
   body {
     display: grid;
     place-content: center;
-    /* margin: 5rem 0rem; */
+    padding: 5rem 0rem;
   }
 
   .recipe {
