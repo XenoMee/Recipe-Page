@@ -232,7 +232,7 @@ th {
 @media (min-width: 44em) {
   .recipe {
     padding-top: 2.5rem;
-    border-radius: 0.5rem;
+    border-radius: 0.8rem;
   }
 
   .recipe__intro {
@@ -244,6 +244,6 @@ th {
   }
 
   .recipe__image {
-    border-radius: 0.5rem;
+    border-radius: 0.8rem;
   }
 }
